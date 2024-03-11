@@ -3,7 +3,7 @@
  
 # Motor Vehicle Collisions in New York City Analysis Dashboard
 
-![Title Image Placeholder](Crash.jpegg)
+![Title Image Placeholder](Crash.jpeg)
 
 This dashboard application analyzes motor vehicle collisions data in New York City. It provides interactive visualizations and insights into various aspects of vehicle collisions, including geographical distribution, time trends, and street-level analysis of injuries. The application is built using Streamlit, a Python library for building interactive web applications for data science and machine learning projects.
 
