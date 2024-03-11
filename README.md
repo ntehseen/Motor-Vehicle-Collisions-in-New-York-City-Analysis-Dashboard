@@ -1,7 +1,9 @@
-<img width="384" alt="image" src="https://github.com/ntehseen/Motor-Vehicle-Collisions-in-New-York-City-Dashboard-using-Streamlit/assets/67349306/09686613-72c8-42d8-a554-a93c532871a2">
+
 
  
 # Motor Vehicle Collisions in New York City Analysis Dashboard
+
+<img width="384" alt="image" src="https://github.com/ntehseen/Motor-Vehicle-Collisions-in-New-York-City-Dashboard-using-Streamlit/assets/67349306/09686613-72c8-42d8-a554-a93c532871a2">
 
 This dashboard application analyzes motor vehicle collisions data in New York City. It provides interactive visualizations and insights into various aspects of vehicle collisions, including geographical distribution, time trends, and street-level analysis of injuries. The application is built using Streamlit, a Python library for building interactive web applications for data science and machine learning projects.
 
